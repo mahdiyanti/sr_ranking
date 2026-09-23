@@ -7,6 +7,7 @@ This repository contains Python scripts for automated relevance scoring and rank
 # Key Features
 ## Keyword-based relevance scoring
 Simple scoring: counts occurrences of target keywords in abstracts.
+
 Advanced scoring: applies category-based weights (e.g., epigenetics, regulation, mechanism, plant type) and bonuses for multi-category matches.
 
 ## Data handling
