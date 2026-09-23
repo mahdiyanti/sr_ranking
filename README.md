@@ -24,8 +24,8 @@ Top-ranked articles are displayed in the console with keyword/category breakdown
 # Workflow
 1. Load article dataset (articles_479.csv).
 2. Apply relevance scoring functions:
-   calculate_relevance() --> basic keyword count.
-   calculate_relevance_advanced() --> weighted scoring with category bonuses.
+   - calculate_relevance() --> basic keyword count.
+   - calculate_relevance_advanced() --> weighted scoring with category bonuses.
 3. Sort articles by score.
 4. Export results to CSV and RIS formats.
 5. Print summary statistics and top-ranked articles.
